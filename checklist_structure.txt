@@ -1,0 +1,18 @@
+{
+
+	Checklist structure
+
+1.Header
+
+Description of the project
+
+2.Subheading
+
+Functional name of a separate product element (For example: Search field)
+
+3.Brief description of the test
+
+Literally a small description of an action or item.	
+
+
+}
