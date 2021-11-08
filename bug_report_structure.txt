@@ -1,0 +1,53 @@
+{
+	Bug report structure
+
+	Header:
+
+• Summary (short description of the problem)
+
+• Project (name of the current project)
+
+• Application component (in which the defect occurred)
+
+• Version (version of the build in which the bug was found)
+
+• Severity (gradation of the degree of influence on the application of the bug)
+
+• Priority (bug fix queue)
+
+• Status (displays the status of a bug in its life cycle)
+
+• Author (bug report author)
+
+• Appointment (who should correct the defect)
+
+	Environment:
+
+• Operating system, bit depth, Service Pack, browser, version, etc.
+
+	Description:
+
+• Reproduction steps (description of the path that leads to the defect)
+
+• The actual result (the result that we arrive at after completing all the steps of the reproduction)
+
+• The expected result (the result to be in accordance with the requirements)
+
+	Supplements:
+
+• Attached file (logs, screenshots, other documents that can help reproduce the problem or solve it)
+
+	Short description
+
+	Seriousness
+
+	Steps to playback
+
+	Actual result
+
+	Expected Result
+
+
+
+}
+
